@@ -1,0 +1,36 @@
+Slot Machine Project
+This is a Python implementation of a simple slot machine game. The program allows users to simulate playing a slot machine, where they can deposit funds, place bets on multiple lines, spin the slot machine, and check for winnings.
+
+Features
+Deposit: Users can deposit funds into the slot machine balance.
+Place Bets: Users can choose the number of lines to bet on and the amount to bet on each line.
+Spin: The slot machine simulates a spin, generating a random outcome for each line.
+Check Winnings: The program checks the spin result to determine if there are any winning combinations on the lines.
+Balance Update: The user's balance is updated based on the outcome of the spin.
+Multiple Lines: Users can choose to bet on multiple lines, increasing the chances of winning.
+Winning Lines: The program displays the lines where winning combinations occurred.
+Quit Option: Users can choose to quit the game at any time.
+How to Play
+Deposit Funds: Users start by depositing funds into the slot machine balance. They enter the amount they want to deposit.
+Place Bets: Users choose the number of lines to bet on and the amount they want to bet on each line.
+Spin: Users initiate a spin by pressing enter. The slot machine simulates the spin and displays the outcome.
+Check Winnings: The program checks the spin result and determines if there are any winning combinations on the lines.
+Display Results: The program displays the winnings, the lines where winning combinations occurred, and the user's updated balance.
+Continue or Quit: Users can choose to continue playing by pressing enter or quit the game by entering 'Q'.
+Dependencies
+The project does not have any external dependencies and runs on Python 3.
+
+How to Run
+1. Clone the repository to your local machine.
+
+2. Make sure you have Python 3 installed.
+
+3. Open a terminal or command prompt and navigate to the project directory.
+
+4. Run the following command to start the game:
+
+	python slot_machine.py
+
+5. Follow the on-screen instructions to play the game.
+
+
